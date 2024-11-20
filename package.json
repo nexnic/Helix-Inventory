@@ -1,0 +1,11 @@
+{
+  "name": "helixinventory",
+  "version": "1.0.0",
+  "description": "This is going to be inventory api system ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Kent Erik Hole <kent.erik.hole@outlook.com>",
+  "license": "ISC"
+}

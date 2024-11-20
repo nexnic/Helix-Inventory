@@ -1,0 +1,27 @@
+[
+  {
+    "id": 0,
+    "name": "Advanced Lockpick",
+    "description": "",
+    "category": "Tool",
+    "price_per_unit": 200,
+    "quantity": 7
+
+  },
+  {
+    "id": 1,
+    "name": "oxy",
+    "description": "",
+    "category": "drugs",
+    "price_per_unit": 200,
+    "quantity": 7
+  },
+  {
+    "id": 1,
+    "name": "oxy",
+    "description": "",
+    "category": "drugs",
+    "price_per_unit": 200,
+    "quantity": 7
+  }
+]
